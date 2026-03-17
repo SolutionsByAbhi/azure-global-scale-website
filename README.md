@@ -1,0 +1,1 @@
+# azure-global-scale-website
